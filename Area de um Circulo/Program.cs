@@ -9,7 +9,7 @@ Entrada: Saída:
 Entrada: Saída:
 100.64 A=31819.3103
 Entrada: Saída:
-150.00 A=70685.7750
+150.00 A=70685.7751
 */
 using System;
 
